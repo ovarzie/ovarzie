@@ -12,7 +12,5 @@ class Ovarz(README):
     self.interests = "billie eilish and once human"
     self.theloml = "lukas"
 
-if __name__ == "__main__":
-  ovarz = Ovarz()
-  ReadmeLoader.load(Ovarz)
+ReadmeLoader.load(Ovarz)
 ```

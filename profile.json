@@ -1,0 +1,142 @@
+{
+  "version": 1,
+  "login": "ovarzie",
+  "seed": "#637390",
+  "seedFromAvatar": true,
+  "scheme": "fidelity",
+  "motion": true,
+  "iconFill": true,
+  "order": [
+    "hero",
+    "wave",
+    "about",
+    "socials",
+    "stack",
+    "projects",
+    "stats",
+    "streak",
+    "buttons"
+  ],
+  "hidden": [
+    "stack",
+    "projects",
+    "stats",
+    "streak",
+    "buttons"
+  ],
+  "hero": {
+    "greeting": "hello im",
+    "name": "elle",
+    "subtitle": "i code in python, typescipt and go, although my mainstream programming language is typescript",
+    "typing": false,
+    "avatarShape": "gem",
+    "chips": [
+      {
+        "icon": "pets",
+        "label": "i love dogs"
+      }
+    ]
+  },
+  "about": {
+    "title": "my links",
+    "items": []
+  },
+  "stack": {
+    "title": "Tech stack",
+    "groups": [
+      {
+        "title": "Main",
+        "items": [
+          {
+            "icon": "brand:typescript",
+            "label": "TypeScript"
+          },
+          {
+            "icon": "brand:react",
+            "label": "React"
+          },
+          {
+            "icon": "brand:python",
+            "label": "Python"
+          }
+        ]
+      },
+      {
+        "title": "Tools",
+        "items": [
+          {
+            "icon": "brand:git",
+            "label": "Git"
+          },
+          {
+            "icon": "brand:figma",
+            "label": "Figma"
+          },
+          {
+            "icon": "brand:githubactions",
+            "label": "GitHub Actions"
+          }
+        ]
+      }
+    ]
+  },
+  "projects": {
+    "source": "pinned",
+    "repos": [],
+    "overrides": {},
+    "empty": "No description yet.",
+    "fork": "Fork"
+  },
+  "stats": {
+    "title": "GitHub activity",
+    "stars": "Stars earned",
+    "contributions": "Contributions this year",
+    "repos": "Public repos",
+    "followers": "Followers",
+    "calendar": "Last 21 days",
+    "weekdays": "SMTWTFS",
+    "languages": "Languages across my repositories",
+    "showLanguages": true
+  },
+  "streak": {
+    "title": "Streak",
+    "current": "Current streak",
+    "longest": "Longest this year",
+    "days": "days"
+  },
+  "socials": {
+    "items": [
+      {
+        "icon": "brand:discord",
+        "url": "https://discord.com/users/1504136044767875242"
+      },
+      {
+        "icon": "brand:x",
+        "url": "https://x.com/latetopartyz"
+      },
+      {
+        "icon": "language",
+        "url": "https://aerith.lol"
+      }
+    ],
+    "variant": "icon",
+    "fill": "tonal",
+    "card": true
+  },
+  "buttons": {
+    "items": [
+      {
+        "icon": "language",
+        "label": "My website",
+        "url": "https://example.com",
+        "style": "filled"
+      },
+      {
+        "icon": "book_2",
+        "label": "All repositories",
+        "url": "",
+        "style": "tonal"
+      }
+    ]
+  }
+}
